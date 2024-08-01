@@ -1,3 +1,3 @@
 def call(name){
-echo "Hey ${name}, Hope you are doing good!"
+echo "Hey ${name}, edited for webhook trigger and commit the change"
 }
